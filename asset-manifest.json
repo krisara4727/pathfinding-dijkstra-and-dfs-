@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pathfinding-dijkstra-and-dfs-/static/css/main.4ba161ab.chunk.css",
+    "main.js": "/pathfinding-dijkstra-and-dfs-/static/js/main.3f0c5795.chunk.js",
+    "main.js.map": "/pathfinding-dijkstra-and-dfs-/static/js/main.3f0c5795.chunk.js.map",
+    "runtime-main.js": "/pathfinding-dijkstra-and-dfs-/static/js/runtime-main.21ba8f52.js",
+    "runtime-main.js.map": "/pathfinding-dijkstra-and-dfs-/static/js/runtime-main.21ba8f52.js.map",
+    "static/js/2.f781bfca.chunk.js": "/pathfinding-dijkstra-and-dfs-/static/js/2.f781bfca.chunk.js",
+    "static/js/2.f781bfca.chunk.js.map": "/pathfinding-dijkstra-and-dfs-/static/js/2.f781bfca.chunk.js.map",
+    "index.html": "/pathfinding-dijkstra-and-dfs-/index.html",
+    "precache-manifest.42862bbdf5074b349430e74d4bfd65cb.js": "/pathfinding-dijkstra-and-dfs-/precache-manifest.42862bbdf5074b349430e74d4bfd65cb.js",
+    "service-worker.js": "/pathfinding-dijkstra-and-dfs-/service-worker.js",
+    "static/css/main.4ba161ab.chunk.css.map": "/pathfinding-dijkstra-and-dfs-/static/css/main.4ba161ab.chunk.css.map",
+    "static/js/2.f781bfca.chunk.js.LICENSE.txt": "/pathfinding-dijkstra-and-dfs-/static/js/2.f781bfca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ba8f52.js",
+    "static/js/2.f781bfca.chunk.js",
+    "static/css/main.4ba161ab.chunk.css",
+    "static/js/main.3f0c5795.chunk.js"
+  ]
+}
